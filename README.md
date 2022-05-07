@@ -9,8 +9,9 @@
         <a href="https://github.com/K4ryuu/Smoke-API/issues">Report Bug</a>
         ·
         <a href="https://github.com/K4ryuu/Smoke-API/issues">Request Feature</a>
-    </b>
-    <br/> <br/>
+     </b>
+    <br/>
+    <b>Do not forget to give a ⭐ on the projects!</b><br/><br/>
     <b>Love the project? Please consider donating to help it improve!</b><br/>
     <b>PayPal:</b> paypal@kitsune-lab.dev<br/>
     <b>Patreon:</b> https://www.patreon.com/kitsunelab
