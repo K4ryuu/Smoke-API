@@ -4,11 +4,11 @@
     <p align="center">This is an improved re-upload of a deleted AlliedModders project made by @Sples1.</br>
     The plugin detects and forwards if the client enters, leaves or inside a smoked zone.</p>
     <b>
-        <a href="https://github.com/K4ryuu/Project_Template/releases">Download</a>
+        <a href="https://github.com/K4ryuu/Smoke-API/releases">Download</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/issues">Report Bug</a>
+        <a href="https://github.com/K4ryuu/Smoke-API/issues">Report Bug</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/issues">Request Feature</a>
+        <a href="https://github.com/K4ryuu/Smoke-API/issues">Request Feature</a>
     </b>
     <br/> <br/>
     <b>Love the project? Please consider donating to help it improve!</b><br/>
