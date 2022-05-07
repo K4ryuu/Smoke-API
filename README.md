@@ -1,7 +1,7 @@
 <font face = "Trebuchet MS">
 <div align="center">
     <h2 align="center">Smoke-API</h2>
-    <p align="center">This is an improved re-upload of a deleted AlliedModders project made by @Sples1.
+    <p align="center">This is an improved re-upload of a deleted AlliedModders project made by @Sples1.</b>
     The plugin detects and forwards if the client enters, leaves or inside a smoked zone.</p>
     <b>
         <a href="https://github.com/K4ryuu/Project_Template/releases">Download</a>
